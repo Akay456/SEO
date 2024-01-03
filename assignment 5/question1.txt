@@ -1,0 +1,4 @@
+1.what is SEO and explain the importance of SEO?
+
+Ans- SEO also called Search Engine Optimisation is a set of practices for positioning the website or reaching out to users through the website in an organic way.
+     SEO is important as it effects the visiblity of the site on the web. The keywords to describe  the page and the proper use of semantic tag and the attributes used in the HTML make the site become relevant to the people searching with a specific keyword.
